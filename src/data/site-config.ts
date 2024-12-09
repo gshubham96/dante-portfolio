@@ -57,6 +57,10 @@ const siteConfig: SiteConfig = {
         {
             text: 'Blog',
             href: '/blog'
+        },
+        {
+            text: 'Contact',
+            href: '/contact'
         }
     ],
     footerNavLinks: [
@@ -102,8 +106,8 @@ const siteConfig: SiteConfig = {
         text: 'One update per month. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
-    postsPerPage: 8,
-    projectsPerPage: 8
+    postsPerPage: 3,
+    projectsPerPage: 3
 };
 
 export default siteConfig;

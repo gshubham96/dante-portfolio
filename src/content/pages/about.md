@@ -4,17 +4,15 @@ seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
-    src: '/about.jpeg'
+    src: '/02.jpeg'
     alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](/about.jpeg)
+![Alt text for image](/02.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Ethan Donovan - Autonomy Developer based in India
 
-## Ethan Donovan - Web Developer based in Estonia
-
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Greetings!** I'm Shubham Garg, a passionate Autonomy developer residing in the chaotic landscapes of [Delhi](https://en.wikipedia.org/wiki/Delhi). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
 
 ## Skills and Expertise
 

@@ -16,6 +16,16 @@
         --color-border-main: 242 241 236; /* #F2F1EC */
     }
 
+    /* Justify all text except headings */
+    body {
+        text-align: justify;
+        text-justify: inter-word; /* Optional for better spacing */
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        text-align: left; /* Align headings to the left */
+    }
+
     /* Cyan */
     /*
     :root {
