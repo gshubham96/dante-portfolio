@@ -75,17 +75,17 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'LinkedIn',
+            text: 'GitHub',
             href: 'https://github.com/gshubham96'
         },
         {
-            text: 'GitHub',
+            text: 'LinkedIn',
             href: 'www.linkedin.com/in/gshubham96'
         }
     ],
     hero: {
         title: 'Hi there & welcome to my corner of the web!',
-        text: "I'm **Shubham Garg**, a marine scientist and software developer, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "I'm **Shubham Garg**, a Marine Engineer and Software Developer based in Delhi, India. With a passion for technology and problem-solving, I specialize in finding autonomy solutions, ranging from embedded control systems to advanced path planning and state machine implementations for real-world problems.\ As a freelancer, I thrive on collaborating with innovative startups and established companies, helping them transform their ideas into reality. My unique blend of engineering expertise and software skills allows me to tackle complex challenges and deliver efficient, scalable solutions. Feel free to explore some of my coding endeavors on <a href='https://github.com/gshubham96'>GitHub</a>.",
         image: {
             src: '/01.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
@@ -98,8 +98,8 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: 'Subscribe to my newsletter',
+        text: 'One update per month. All the latest posts directly in your inbox.',
         formUrl: '#'
     },
     postsPerPage: 8,
