@@ -85,7 +85,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Hi there & welcome to my corner of the web!',
-        text: "I'm **Shubham Garg**, a Marine Engineer and Software Developer based in Delhi, India. With a passion for technology and problem-solving, I specialize in finding autonomy solutions, ranging from embedded control systems to advanced path planning and state machine implementations for real-world problems.\ As a freelancer, I thrive on collaborating with innovative startups and established companies, helping them transform their ideas into reality. My unique blend of engineering expertise and software skills allows me to tackle complex challenges and deliver efficient, scalable solutions. Feel free to explore some of my coding endeavors on <a href='https://github.com/gshubham96'>GitHub</a>.",
+        text: "I'm **Shubham Garg**, a Marine Engineer and Software Developer based in Delhi, India. With a passion for technology and problem-solving, I specialize in finding autonomy solutions, ranging from embedded control systems to advanced path planning and state machine implementations for real-world problems.\<br /> As a freelancer, I thrive on collaborating with innovative startups and established companies, helping them transform their ideas into reality. My unique blend of engineering expertise and software skills allows me to tackle complex challenges and deliver efficient, scalable solutions. Feel free to explore some of my coding endeavors on <a href='https://github.com/gshubham96'>GitHub</a>.",
         image: {
             src: '/01.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
