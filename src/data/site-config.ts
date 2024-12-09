@@ -39,8 +39,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'shubham-garg',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    subtitle: 'Marine Scientist, Engineer',
+    description: 'An online portfolio to showcase my work.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -57,10 +57,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Blog',
             href: '/blog'
-        },
-        {
-            text: 'Tags',
-            href: '/tags'
         }
     ],
     footerNavLinks: [
@@ -75,31 +71,23 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://github.com/gshubham96'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'GitHub',
+            href: 'www.linkedin.com/in/gshubham96'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
+        title: 'Hi there & welcome to my corner of the web!',
         text: "I'm **Shubham Garg**, a marine scientist and software developer, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
         image: {
-            src: '/hero.jpeg',
+            src: '/01.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
