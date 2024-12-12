@@ -5,7 +5,7 @@ publishDate: 'December 9, 2024'
 isFeatured: true
 tags:
   - SLAM
-  - RUST
+  - Rust
   - Mapping
 seo:
   image:
@@ -15,12 +15,12 @@ seo:
 
 ![Graffiti of word SLAM on wall](/posts/post-1/main.jpg)
 
-I'm currently doing research on various SLAM algorithms out there. I'm interested in developing a real-time SLAM/Mapping algorithms using LiDAR and Bathymetry SONAR. I want to start small so before I go knee-deep in SLAM, I want to do a shorter project in RUST. I think Google's Cartographer algorithm could be a nice start. From the example ![here](https://www.youtube.com/watch?v=qNdcXUEF7KU), it's a fair bet that it will work on a portable embedded hardware.
+I'm currently doing research on various SLAM algorithms out there. I'm interested in developing a real-time SLAM/Mapping algorithms using LiDAR and Bathymetry SONAR. I want to start small so before I go knee-deep in SLAM, I want to do a shorter project in RUST. I think Google's Cartographer algorithm could be a nice start. From the example [here](https://www.youtube.com/watch?v=qNdcXUEF7KU), it's a fair bet that it will work on a portable embedded hardware.
 
 ## Real-Time Loop Closure in 2D LIDAR SLAM
 by Wolfgang Hess1, Damon Kohler1, Holger Rapp1, Daniel Andor
 
-![Link to the paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)
+[Link to the paper](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45466.pdf)
 
 ![flowchart](/posts/post-1/cartographer-1.png)
 
@@ -36,4 +36,4 @@ Step 3: First we check to see if a pixel accurate match of the new submap is fou
 
 Step 4: Nonlinear optimization aligns all the small submaps to form the big map using the relative poses computed in the first step. This step also corrects for errors in global position using loop closure.
 
-We loop till kingdome come? Of course there are a bunch of different logic that builds on top of this to ensure that algorithm runs in real time in the real world.
+We loop till kingdome come?! Of course there are a bunch of different logic that builds on top of this to ensure that algorithm runs in real time in the real world.
