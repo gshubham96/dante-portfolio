@@ -2,7 +2,7 @@
 title: Model Predictive Control in Rust.
 excerpt: Reimplementing my thesis project in Rust using ??.
 publishDate: 'December 12, 2024'
-isFeatured: true
+isFeatured: false
 tags:
   - Rust
   - Model Predictive Control
@@ -35,3 +35,4 @@ The plan for now is below
 
 ## Goal
 My end goal is to just learn some really cool things. :)
+

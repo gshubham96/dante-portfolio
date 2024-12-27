@@ -2,7 +2,7 @@
 title: Crossing the European Mainland.
 excerpt: Back when I cycled across EU. Still need to finish the final stretch though. Cycling is so coool!
 publishDate: 'December 9, 2024'
-isFeatured: true
+isFeatured: false
 tags:
   - Guide
 seo:
