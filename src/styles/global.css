@@ -26,6 +26,14 @@
         text-align: left; /* Align headings to the left */
     }
 
+    /* Center all images */
+    img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; /* Optional: adjust as needed */
+    }
+
     /* Cyan */
     /*
     :root {

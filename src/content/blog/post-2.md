@@ -24,7 +24,7 @@ The plan for now is below
 - [ ] function to accept initial state of the vehicle, input forces and then output the final state based on Fossen's 6-dof model.
 - [ ] function to generate course reference angles
 - [ ] function to initialize vehicle model
-- [ ] function to implement MPC, probably using OpEn
+- [ ] function to implement MPC, probably using [OpEn](https://github.com/alphaville/optimization-engine)
 
 ### Extended Objectives
 - [ ] It could be a nice idea to run simulator and controller on different nodes and run this thing using some kind of communication solution. Perhaps [nng](https://docs.rs/nng/latest/nng/), [iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) or [zeromq](https://github.com/zeromq/zmq.rs)
